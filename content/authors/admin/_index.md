@@ -93,10 +93,10 @@ skills:
         icon: "custom/gym"
 
 languages:
-  - name: English
+  - name: 中文
     percent: 100
-  - name: Spanish
-    percent: 50
+  - name: English
+    percent: 10
 
 # Awards.
 #   Add/remove as many awards below as you like.
