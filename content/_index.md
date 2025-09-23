@@ -34,11 +34,11 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        我目前是一名大四本科生，就读于南京邮电大学贝尔英才学院。在本科期间，我的主要研究方向为计算机视觉中的对抗攻击（Adversarial Attack）。我喜欢摄影📷、羽毛球🏸、旅游🎒和健身💪。所谓“读万卷书📖，行万里路👣”。
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-
-        Please reach out to collaborate 😃
+        我会在这个网站中分享我的研究工作和我自己的摄影作品。
+        
+        我还在学习如何更好地搭建我的个人主页，所以敬请期待😌。
     design:
       columns: '1'
   - block: collection
