@@ -79,7 +79,7 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-     - name: 摄影
+      - name: 摄影
         description: ''
         percent: 80
         icon: "custom/camera"
