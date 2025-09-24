@@ -36,6 +36,7 @@ header:
     show_theme_chooser: true
     logo:
       text: '薛世喆'
+      filename: 'icon.png'
 
 # Site footer
 footer:

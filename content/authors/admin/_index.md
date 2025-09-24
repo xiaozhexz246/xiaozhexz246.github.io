@@ -85,7 +85,7 @@ skills:
         icon: "custom/camera"
       - name: 羽毛球
         description: ''
-        percent: 90
+        percent: 80
         icon: "custom/badminton"
       - name: 健身
         description: ''
