@@ -103,13 +103,30 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  # - title: Best Paper Award
-  #   url: https://neurips.cc/
-  #   date: '2022-12-01'
-  #   awarder: NeurIPS
-  #   icon: hero/trophy
-  #   summary: |
-  #     Awarded for groundbreaking work on efficient training of large models.
+  - title: 一等奖学金
+    date: '2024-09-01'
+    awarder: 南京邮电大学
+  - title: 优秀学生干部
+    date: '2024-09-01'
+    awarder: 南京邮电大学  
+  - title: 优秀学生会干部
+    date: '2025-05-01'
+    awarder: 南京邮电大学
+  - title: 优秀青年志愿者
+    date: '2024-12-01'
+    awarder: 南京邮电大学
+  - title: 优秀青年志愿者
+    date: '2023-12-01'
+    awarder: 南京邮电大学
+  # - title: 三下乡社会实践省级优秀团队
+  #   date: '2023-10-01'
+  #   awarder: 江苏省
+  - title: 三下乡社会实践活动先进个人
+    date: '2023-10-01'
+    awarder: 南京邮电大学
+  - title: 爱回母校社会实践先进个人
+    date: '2023-04-01'
+    awarder: 南京邮电大学
   # - title: AI Innovation Grant
   #   url: https://www.nsf.gov/
   #   date: '2021-06-15'
@@ -117,13 +134,7 @@ awards:
   #   icon: hero/currency-dollar
   #   summary: |
   #     $500,000 grant for research in ethical AI development.
-  # - title: Outstanding PhD Thesis
-  #   url: https://www.stanford.edu/
-  #   date: '2019-06-30'
-  #   awarder: Stanford University
-  #   icon: hero/academic-cap
-  #   summary: |
-  #     Recognized for contributions to scaling laws in deep learning.
+  
 ---
 
 薛世喆，共青团员，是南京邮电大学理工科强化班（计算机科学与技术）专业的学生。曾获校一等奖学金，优秀学生干部，优秀青年志愿者等荣誉；曾获全国大学生英语竞赛三等奖，省级竞赛奖励两项；曾任院学生会主席，班级副班长，任职期间负责并参与学院各项活动的新媒体宣传工作，拍摄、编辑、审核稿件五十余篇；曾以第一作者身份完成CCF-C类会议论文一篇，研究基于可解释性引导的迁移对抗攻击，目前已被ICIC2025录用。另外，他还参与完成了一份专利。

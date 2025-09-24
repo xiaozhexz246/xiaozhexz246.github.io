@@ -24,10 +24,33 @@ sections:
       username: admin
     design:
       show_skill_percentage: true
+  - block: markdown
+    demo: true
+    content:
+      title: "竞赛"
+      # subtitle: "More details below"
+      text: | 
+        在**本科**期间，我获得竞赛国家级奖项1项，省级奖项2项，校级奖项若干：
+        #### 国家级奖项
+        - 2024 全国大学⽣英语竞赛C类三等奖
+        #### 省级奖项
+        - 
+        #### 校级奖项        
+        - Create lists
+        - Add links
+        - Format text
+        
+        
+    design:
+      columns: "1"
+      background:
+        color: "white"
+
   - block: resume-awards
     content:
       title: 奖励
       username: admin
+    
   - block: resume-languages
     content:
       title: 语言
