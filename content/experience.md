@@ -1,6 +1,6 @@
 ---
 title: 'Experience'
-date: 2023-10-24
+date: 2025-09-24
 type: landing
 
 design:
@@ -23,7 +23,7 @@ sections:
       title: 技能 & 爱好
       username: admin
     design:
-      show_skill_percentage: false
+      show_skill_percentage: true
   - block: resume-awards
     content:
       title: 奖励

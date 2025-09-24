@@ -61,17 +61,19 @@ sections:
   - block: collection
     id: papers
     content:
-      title: Featured Publications
+      title: 代表文章
       filters:
         folders:
           - publications
         featured_only: true
     design:
-      view: article-grid
-      columns: 2
+      view: Compact
+      columns: 1
+      
+
   - block: collection
     content:
-      title: Recent Publications
+      title: 最近文章
       text: ''
       filters:
         folders:
@@ -80,6 +82,7 @@ sections:
     design:
       view: citation
   - block: collection
+    demo: true
     id: talks
     content:
       title: Recent & Upcoming Talks
@@ -89,9 +92,10 @@ sections:
     design:
       view: card
   - block: collection
+    
     id: news
     content:
-      title: Recent News
+      title: 个人博客
       subtitle: ''
       text: ''
       # Page type to display. E.g. post, talk, publication...

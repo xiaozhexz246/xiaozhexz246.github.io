@@ -71,26 +71,26 @@ skills:
         description: ''
         percent: 100
         icon: chart-bar
-      - name: Cloud Computing (AWS/GCP)
-        description: ''
-        percent: 85
-        icon: cloud
+      # - name: Cloud Computing (AWS/GCP)
+      #   description: ''
+      #   percent: 85
+      #   icon: cloud
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: 摄影
+      - name: 📷摄影
+        description: ''
+        percent: 100
+        # icon_park: camera
+      - name: 🏸羽毛球
         description: ''
         percent: 80
-        icon: "custom/camera"
-      - name: 羽毛球
+        
+      - name: 💪健身
         description: ''
-        percent: 80
-        icon: "custom/badminton"
-      - name: 健身
-        description: ''
-        percent: 70
-        icon: "custom/gym"
+        percent: 50
+        
 
 languages:
   - name: 中文
