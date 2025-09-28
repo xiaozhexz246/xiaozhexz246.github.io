@@ -89,6 +89,8 @@ content_meta:
 - [markdown语法教程](https://markdown.com.cn/)
 - [一个找emoji的网站](https://emojifinder.com/)
 
+#### 上传到Github
+当主页的内容修改好了之后，我们就可以把这些改好的内容利用vscode的git功能上传到Github。我们还是点击功能栏中的**源代码管理**，可以看到在更改那一栏中显示了所有修改的内容。接着，在最上面的提交按钮上面填写这次修改的消息，接着点击提交
 
 > [!IMPORTANT]
 > Remember to backup your site before making major updates!
