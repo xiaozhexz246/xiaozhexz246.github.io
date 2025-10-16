@@ -18,6 +18,9 @@ sections:
       button:
         text: 下载简历
         url: uploads/cv.pdf
+      
+        
+      
       headings:
         about: ''
         education: ''
